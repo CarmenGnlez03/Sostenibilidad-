@@ -1,4 +1,4 @@
-# Sostenibilidad-
+# Sostenibilidad
 
 # Índice
 
