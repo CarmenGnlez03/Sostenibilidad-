@@ -1,5 +1,7 @@
 # Sostenibilidad-
-Índice
+
+# Índice
+
 1.1. Introducción
 1.2. Sostenibilidad y desarrollo sostenible
 1.3. ¿Qué significa la sigla ASG?
@@ -11,5 +13,4 @@ Mapa conceptual (Herramientas utilizada)
 Glosario (Asamblea, Biodiversidad, Derechos humanos, Gobernanza, Kioto, métrica)
 Referencias
 Autores
-marta
-Carmen
+
