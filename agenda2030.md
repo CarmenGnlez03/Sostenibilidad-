@@ -1,6 +1,21 @@
 **¿Cuáles son los Objetivos de Desarrollo Sostenible?**
 Se acordaron 17 objetivos con un plazo de cumplimiento hasta 2030, tratando de mejorar la economía, la sociedad y el medio ambiente.
+
+Los **Objetivos de Desarrollo Sostenible (ODS)** se debaten principalmente en dos órganos clave de la ONU:
+
+1. 🏛️ **Consejo Económico y Social (ECOSOC)**:  
+   - Es el encargado de coordinar los trabajos relacionados con los ODS.  
+   - Lidera el seguimiento de los ODS a través del **Foro Político de Alto Nivel sobre el Desarrollo Sostenible (HLPF)**, donde los países comparten avances, retos y buenas prácticas.
+
+2. 🌐 **Asamblea General de la ONU**:  
+   - Fue donde se adoptaron los ODS como parte de la **Agenda 2030** en 2015.  
+   - Sigue siendo un espacio clave para debatir temas estratégicos sobre los ODS, como la financiación y la cooperación internacional.
+
+🔧 Además, agencias como el **PNUD**, la **FAO** y otros organismos especializados de la ONU trabajan directamente en proyectos para cumplir los ODS en áreas específicas.
+
 Cada ODS incluyen diferentes metas para alcanzar dichos objetivos:
+
+
 
 ## 1.Fin de la pobreza
 
