@@ -14,3 +14,5 @@
 - [Referencias](referencias.md)
 - [Autores](autores.md)
 
+![sostenibilidad](https://askusedu.com/blogdashboard/wp-content/uploads/2024/01/green-living-and-sustainable-future.webp)
+
