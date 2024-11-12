@@ -2,7 +2,15 @@
 Se acordaron 17 objetivos con un plazo de cumplimiento hasta 2030, tratando de mejorar la economía, la sociedad y el medio ambiente.
 Cada ODS incluyen diferentes metas para alcanzar dichos objetivos:
 **1.Fin de la pobreza**
+
+
 ![Fin de la pobreza](https://www.sdgfund.org/sites/default/files/E_SDG_Icons_NoText-01.jpg)
+
+
+
+
+
+
 
 
 **2.Hambre Cero**
