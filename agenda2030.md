@@ -60,6 +60,28 @@ Cada ODS incluyen diferentes metas para alcanzar dichos objetivos:
 ## 10.Reducción de las desigualdades 
 ![Reducción](https://www.sdgfund.org/sites/default/files/E_SDG_Icons_NoText-10.jpg)
 
+La **desigualdad de género** genera riesgos importantes tanto para las sociedades como para las empresas. Estos riesgos se pueden clasificar en las siguientes áreas:  
+
+## 1. 🌍 Riesgos sociales  
+- 😠 **Conflictos sociales**: La exclusión de género puede provocar descontento, tensiones y protestas.  
+- 🤷‍♀️ **Pérdida de talento**: No dar oportunidades igualitarias significa desperdiciar habilidades valiosas.  
+- ⚖️ **Mayor desigualdad estructural**: Sociedades desiguales suelen tener más pobreza y menor desarrollo humano.  
+
+## 2. 📉 Riesgos económicos  
+- 📊 **Menor productividad**: Empresas y economías que excluyen pierden competitividad y eficiencia.  
+- 💸 **Impacto negativo en el crecimiento**: Reducir la desigualdad podría aumentar significativamente el PIB global.  
+
+## 3. 📰 Riesgos reputacionales  
+- 📉 **Mala imagen pública**: Empresas percibidas como desiguales pueden enfrentar críticas y pérdida de confianza.  
+- 🚪 **Dificultades para atraer talento**: Las generaciones jóvenes valoran la diversidad y podrían evitar empresas que no la promuevan.  
+
+## 4. ⚖️ Riesgos legales y regulatorios  
+- 💼 **Sanciones legales**: No cumplir con normativas de igualdad puede llevar a multas o demandas laborales.  
+
+## 5. 🤔 Riesgos en la toma de decisiones  
+- 🤷 **Falta de diversidad**: Menos mujeres en puestos clave significa decisiones menos inclusivas e innovadoras.  
+- 💡 **Pérdida de confianza de inversores**: Los stakeholders valoran organizaciones con políticas igualitarias.  
+
 
 ## 11.Ciudades y comunidades sostenibles 
 ![Ciudades](https://www.sdgfund.org/sites/default/files/E_SDG_Icons_NoText-11.jpg)
