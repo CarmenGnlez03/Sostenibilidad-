@@ -14,4 +14,23 @@ El **desarrollo sostenible** es la idea de que, para mejorar la vida de las pers
 
 Por ejemplo, en lugar de talar todos los árboles 🌳 para hacer papel, podemos **reciclarlo**. O, en vez de consumir mucha energía de fuentes contaminantes, podemos usar **energía limpia** como la solar ☀️ o eólica 🌬️. Así, el progreso no significa hacerle daño a la Tierra ni a las personas.
 
+# 🌍 Primer Uso del Concepto de Desarrollo Sostenible
+
+El concepto de **desarrollo sostenible** se utilizó por primera vez de manera oficial en el **Informe Brundtland** de 1987, también conocido como *"Nuestro futuro común"*. Este informe fue elaborado por la **Comisión Mundial sobre el Medio Ambiente y el Desarrollo** de la ONU, liderada por Gro Harlem Brundtland, entonces primera ministra de Noruega.
+
+## ¿Qué definió el Informe Brundtland?
+
+En este informe, se definió el desarrollo sostenible como el desarrollo que **satisface las necesidades del presente sin comprometer la capacidad de las futuras generaciones para satisfacer sus propias necesidades**. La idea central es que el crecimiento económico, la protección ambiental y el bienestar social pueden y deben coexistir para que el desarrollo sea realmente sostenible a largo plazo.
+
+---
+
+El **Informe Brundtland** sentó las bases para muchas políticas y estrategias de sostenibilidad actuales, inspirando acuerdos y compromisos globales como:
+
+- 🌎 La **Cumbre de la Tierra de 1992 en Río de Janeiro**
+- 🎯 Los **Objetivos de Desarrollo Sostenible** de la ONU
+- 📜 Diversos marcos de sostenibilidad adoptados por gobiernos, organizaciones y empresas en todo el mundo.
+
+
+
+
 ---
