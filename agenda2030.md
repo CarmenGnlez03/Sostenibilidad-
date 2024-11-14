@@ -13,6 +13,35 @@ Los **Objetivos de Desarrollo Sostenible (ODS)** se debaten principalmente en do
 
 🔧 Además, agencias como el **PNUD**, la **FAO** y otros organismos especializados de la ONU trabajan directamente en proyectos para cumplir los ODS en áreas específicas.
 
+# 🌐 Organización de las Naciones Unidas (ONU)
+
+La **ONU** es una gran organización donde países de todo el mundo trabajan juntos para hacer que el planeta sea un lugar más seguro, justo y sostenible. Está formada por varias partes, cada una con un rol específico, como si fueran departamentos en una empresa.
+
+## 1. Asamblea General 🗣️
+
+La **Asamblea General** es como una gran sala de reuniones donde se juntan representantes de todos los países miembros. En esta reunión, los países discuten los problemas más importantes del mundo, desde el cambio climático hasta la educación 📚. Todos los países, sin importar su tamaño, tienen un voto y pueden dar su opinión. Es el lugar donde se debaten y deciden temas globales.
+
+## 2. Consejo de Seguridad 🛡️
+
+El **Consejo de Seguridad** se encarga de mantener la paz y la seguridad. Cuando surgen conflictos o tensiones que podrían llevar a una guerra, este consejo toma decisiones rápidas, como imponer sanciones o enviar misiones de paz ☮️. Está formado por 15 países, pero cinco de ellos (Estados Unidos, Rusia, China, Francia y el Reino Unido) tienen un rol especial y pueden vetar decisiones. Son los "vigilantes" de la paz mundial.
+
+## 3. Consejo Económico y Social (ECOSOC) 🌍
+
+El **ECOSOC** trabaja en temas que afectan a la vida cotidiana de las personas, como la economía, la educación y el bienestar social 💼. Colabora con diferentes agencias de la ONU para ayudar a todos los países a mejorar en servicios básicos y oportunidades de desarrollo. Es el departamento que busca hacer el mundo más justo y equitativo.
+
+## 4. Corte Internacional de Justicia (CIJ) ⚖️
+
+La **Corte Internacional de Justicia** es como la corte suprema del mundo. Cuando dos países tienen un conflicto legal y no logran ponerse de acuerdo, pueden llevar el caso a esta corte para que lo resuelva de forma imparcial. También emite opiniones para aclarar dudas legales que tengan otras partes de la ONU.
+
+## 5. Secretaría 🏢
+
+La **Secretaría** es el motor que hace que toda la ONU funcione. Está dirigida por el Secretario General, quien actúa como el “jefe de operaciones” de la ONU. Su trabajo es asegurar que se cumplan las decisiones tomadas por otros órganos y que todo siga adelante: desde las misiones de paz hasta los programas de ayuda humanitaria 🤝 y sostenibilidad 🌱.
+
+---
+
+Cada uno de estos órganos juega un rol clave en la ONU, y juntos abordan los problemas más grandes del mundo, como la pobreza, el cambio climático y los conflictos, con el objetivo de hacer del planeta un lugar mejor para todos 🌎.
+
+
 Cada ODS incluyen diferentes metas para alcanzar dichos objetivos:
 
 
