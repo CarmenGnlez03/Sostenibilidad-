@@ -1,18 +1,39 @@
-# Sostenibilidad
+🌍 Sostenibilidad
+---
 
-# Índice
+📑 Índice
+[Introducción](introduccion.md)
+🌱 Una visión general sobre sostenibilidad
 
-- 1.1. [Introducción](introduccion.md)
-- 1.2. [Sostenibilidad y desarrollo sostenible](sostenibilidadydesarrollo.md)
-- 1.3. [¿Qué significa la sigla ASG?](ASG.md)
-- 1.4. [La Agenda 2030 y los ODS](agenda2030.md)
-- 1.5. [Marco normativo y regulador de la sostenibilidad en Europa](marconormativo.md)
-- 1.6.- [Evaluación del desempeño en sostenibilidad de las empresas](evaluación.md)
-- [Conclusiones](coclusiones.md)
-- [Mapa conceptual](mapaconceptual.md)
-- [Glosario (Asamblea, Biodiversidad, Derechos humanos, Gobernanza, Kioto, métrica)](glosario.md)
-- [Referencias](referencias.md)
-- [Autores](autores.md)
+[Sostenibilidad y desarrollo sostenible](sostenibilidadydesarrollo.md)
+♻️ Conceptos y principios clave para un desarrollo en equilibrio
 
-![sostenibilidad](https://askusedu.com/blogdashboard/wp-content/uploads/2024/01/green-living-and-sustainable-future.webp)
+[¿Qué significa la sigla ASG?](ASG.md)
+🏦 ASG: Medioambiente, Sociedad y Gobernanza en las empresas
+
+[La Agenda 2030 y los ODS](agenda2030.md)
+🌐 Los 17 Objetivos de Desarrollo Sostenible y su impacto global
+
+[Marco normativo y regulador de la sostenibilidad en Europa](marconormativo.md)
+📜 Normas y regulaciones europeas para promover la sostenibilidad
+
+[Evaluación del desempeño en sostenibilidad de las empresas](evaluación.md)
+📊 Herramientas y métricas para medir el impacto sostenible
+
+---
+
+📌 [Conclusiones](conclusiones.md)
+📝 Reflexiones finales y próximos pasos
+
+🗺️ [Mapa conceptual](mapaconceptual.md)
+🧩 Esquema visual para una mejor comprensión
+
+📚 [Glosario](glosario.md)
+💡 Términos clave: Asamblea, Biodiversidad, Derechos humanos, Gobernanza, Kioto, Métrica
+
+📖 [Referencias](referencias.md)
+📑 Fuentes consultadas para la elaboración del contenido
+
+👥 [Autores](autores.md)
+✍️ Quiénes han colaborado en la elaboración del documento
 
